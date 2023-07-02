@@ -2824,10 +2824,10 @@
     loupe "^2.3.6"
     pretty-format "^27.5.1"
 
-"@vue/apollo-composable@4.0.0-beta.4":
-  version "4.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@vue/apollo-composable/-/apollo-composable-4.0.0-beta.4.tgz#a93cbccfdcf9558ada0161294b42f77bee5e6a0b"
-  integrity sha512-lErWL+9LGfWfdfrSYY3DQB/A8Asqs46MiKwmgKeKSj7fe01tx0UpH43aiwMGj+VgEzBZ9AfqEa/Bxf0Nff/NNw==
+"@vue/apollo-composable@4.0.0-beta.7":
+  version "4.0.0-beta.7"
+  resolved "https://registry.yarnpkg.com/@vue/apollo-composable/-/apollo-composable-4.0.0-beta.7.tgz#91ced8eeda2331a5de39b3715d109744d6e83fd4"
+  integrity sha512-BCKK9xAH67e033Q715nzhGwn9PlnTACb+840qQQjSa1YFwjeiDufPpJ/GGqaLGqJgTm+wgpIljA/H+MYDFhe6g==
   dependencies:
     throttle-debounce "^3.0.1"
     ts-essentials "^9.1.2"
